@@ -8,5 +8,7 @@ int main()
 
     printf("ma^^jiowatteru");
 
+    printf("buranntitukuttao^^");
+
     return 0;
 }
