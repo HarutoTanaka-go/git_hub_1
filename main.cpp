@@ -4,7 +4,7 @@ int main()
 {
     printf("hello");
 
-    printf("ko-dokaita")
+    printf("ko-dokaita");
 
     return 0;
 }
