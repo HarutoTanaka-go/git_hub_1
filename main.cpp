@@ -6,5 +6,7 @@ int main()
 
     printf("ko-dokaita");
 
+    printf("ma^^jiowatteru");
+
     return 0;
 }
